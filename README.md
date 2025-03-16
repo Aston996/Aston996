@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aston996
-- 👀 I’m interested in tech, World Engdure Championship(WEC) and Formula One 
+- 👀 I’m interested in tech, FIA World Endurance Championship (WEC) and Formula One 
 - 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
